@@ -1,4 +1,4 @@
-package com.tuling.mybatis;
+package com.tuling.mybatis.controller;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
